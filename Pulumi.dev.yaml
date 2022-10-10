@@ -1,0 +1,2 @@
+config:
+  aws:region: us-central-1
